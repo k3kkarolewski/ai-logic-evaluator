@@ -1,6 +1,6 @@
 # 🧠 AI Logic Evaluator
 
-![Podgląd aplikacji AI Logic Evaluator](assets/preview.png)
+![Podgląd aplikacji AI Logic Evaluator](assets/screen.png)
 
 ## 🎯 Project Objective
 
